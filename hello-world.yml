@@ -1,12 +1,12 @@
 spring:
- profiles:dev
+ profiles: dev
 
 username:
- name: John Dom
+ name: JohnDom
 
 ---
 spring:
- profiles:prod
+ profiles: prod
   
 username:
- name: John Dave  
+ name: JohnDave  
